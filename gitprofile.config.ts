@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/tvanlaar/gitprofile/blob/main/img/VanLaarRSCASlide.jpg',
           link: 'https://example.com',
         },
       ],
