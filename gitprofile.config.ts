@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             '3 minute presentation of my research.',
           imageUrl:
-            'img/VanLaarRSCASlide.jpg',
+            'https://github.com/tvanlaar/gitprofile/blob/main/img/VanLaarRSCASlide.jpg',
           link: 'https://example.com',
         },
         {
