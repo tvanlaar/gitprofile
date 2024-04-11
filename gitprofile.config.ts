@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             '3 minute presentation of my research.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://www.github/org/tvanlaar/gitprofile/img/VanLaarRSCASlide.jpg',
           link: 'https://example.com',
         },
         {
